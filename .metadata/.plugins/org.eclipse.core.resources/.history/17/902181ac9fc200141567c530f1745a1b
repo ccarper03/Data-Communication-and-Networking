@@ -1,0 +1,12 @@
+import javax.swing.*;
+public class DialogPrg {
+
+	public static void main(String[] args) 
+	{
+		String UserName = JOptionPane.showInputDialog("What is your name?");
+		JOptionPane.showMessageDialog(null,"Hello " + UserName, "Hi",
+		JOptionPane.INFORMATION_MESSAGE);
+
+	}
+
+}

@@ -1,0 +1,26 @@
+INDEX VERSION 1.127+D:\OneDrive\DTCC Spring - 15\Data communications and networking\workspace-java\.metadata\.plugins\org.eclipse.jdt.core
+2316102611.index
+3883868377.index
+642964287.index
+1811968355.index
+2774331490.index
+549908355.index
+946580212.index
+2548499729.index
+1891765932.index
+942326089.index
+1957968718.index
+3668621785.index
+4159432100.index
+134296050.index
+3475296612.index
+1179815636.index
+1033625265.index
+3264989491.index
+3208426689.index
+2348113578.index
+3803567967.index
+1409493203.index
+2751417106.index
+35764307.index
+130147870.index

@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+
+/**
+ * @author ccarp_000
+ *
+ */
+public class GetIPInfo {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
